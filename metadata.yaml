@@ -1,0 +1,29 @@
+_repo: Monk_45951
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45951-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Corbett, Julian Stafford
+    alias: Corbett, Julian Stafford, Sir
+    birthdate: 1854
+    deathdate: 1922
+    gutenberg_agent_id: '5827'
+    url: http://www.gutenberg.org/2009/agents/5827
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Corbett
+description: ''
+gutenberg_issued: '2014-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: English Men of Action
+subjects:
+- !lcc 'DA'
+- !lcsh 'Albemarle, George Monck, Duke of, 1608-1670'
+title: Monk
+url: http://www.gutenberg.org/ebooks/45951
