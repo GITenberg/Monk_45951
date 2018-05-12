@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5827
     wikipedia: http://en.wikipedia.org/wiki/Julian_Corbett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45951#Monk
 gutenberg_issued: '2014-06-12'
 gutenberg_type: Text
 identifiers:
